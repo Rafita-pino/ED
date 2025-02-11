@@ -1,0 +1,6 @@
+# Archivos de construcción y configuraciones
+.gradle/
+build/
+.vscode/
+.DS_Store
+*.log
