@@ -1,6 +1,7 @@
-# Archivos de construcción y configuraciones
-.gradle/
-build/
-.vscode/
-.DS_Store
-*.log
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java build output
+*.class
